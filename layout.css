@@ -1,0 +1,15 @@
+td{
+  height: 100px;
+  width: 100px;
+}
+
+#reload{
+  font-size: 15px;
+  height: 40px;
+  width: 100px;
+  box-shadow: 5px 5px 5px black;
+}
+
+#game_board{
+  padding-top: 50px;
+}
